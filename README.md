@@ -4,7 +4,6 @@
 
 Projeto hospedado no firebase: https://letmeask-235a8.web.app/
 
-
 ##### Próximos passos:
 - Responsividade
 - PWA
